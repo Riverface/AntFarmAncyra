@@ -1,0 +1,13 @@
+{
+    "id": "Riverface_AntFarmAncyra",
+    "name": "Ant Farm Ancyra",
+    "author": "River",
+    "utility": "false",
+    "version": "1.0.0",
+    "description": "Ant Farm Ancyra.",
+    "gameVersion": "0.95.1a-RC6",
+    "jars": [
+        "jars/AntFarmAncyra.jar"
+    ],
+    "modPlugin": "Riverface.AntFarmAncyra.AntFarmAncyra"
+}
